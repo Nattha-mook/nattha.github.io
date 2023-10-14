@@ -1,29 +1,28 @@
 # Nattha Sombat
 📍 Currently live in Toronto, Canada
 
-#### Technical Skills: Python, SQL, SPSS, Power BI, MS Excel, Data-driven Marketing
+#### 💻Technical Skills: Python, SQL, SPSS, Power BI, MS Excel, Data-driven Marketing
 
-## Education
+## 📚Education
 - Business Insights and Analytics ┃ Humber College in Toronto, Canada (_Anticipated Aug 2024_)
 - B.S. Aviation Technology Management ┃ Kasetsart University in Bangkok, Thailand (_May 2017_)
 
-## Work Experience
-**Strategic Planning and Marketing Officer @ Dhurakij Pundit University (_Apr 2022 - Sep 2022_)**
+## 💼Work Experience
+**Strategic Planning and Marketing Officer @ Dhurakij Pundit University in Bangkok, Thailand (_Apr 2022 - Sep 2022_)**
   - Created ads and boosted posts about training courses on Facebook to reach a larger target audience by 50% in engagement and by 20% in getting leads.
   - Led a diverse team on marketing events to launch new services of flight simulator at the aviation academy by creating checklists and organizing effective weekly meetings which achieved a 30% increase in target participants and received positive feedback. 
 
+**Senior Cost Analyst @ Fastship.Co in Bangkok, Thailand (_Jan 2022 - Apr 2022_)**
+- Developed a Profit-Loss dashboard in MS Excel for a startup logistics company, enabling 30% cost reduction, and earning recognition for time-sensitive complex problem-solving and attention to detail.
+- Collaborated on social media marketing, exceeding sales targets by 30% through efficient prioritization and effective communication in a fast-paced, cross-functional team.
 
-**Senior Cost Analyst @ Fastship.Co (_Jan 2022 - Apr 2022_)**
+**Economic Regulation Officer @ The Civil Aviation Authority of Thailand in Bangkok, Thailand (_Sep 2018 - Nov 2021_)**
+- Monitored and Analyzed airline pricing data by using STATA and MS Excel to identify trends and insights and pricing competition to protect airlines from dumping leading to finding the 2 most frequent airlines below floor prices.
+- Investigated a passenger complaint about an airline charging for seat changes which was even though no such fee existed in their policy by taking corrective action and ensuring fair practices as a result of underscoring the Civil Aviation Authority's commitment to safeguarding passenger rights and maintaining fair aviation in Thailand.
 
-
-
-**Economic Regulation Officer @ CAAT (_Sep 2018 - Nov 2021_)**
-
-
-
-## Projects 
+## 📊Projects 
 ### Analyze Box Office Data with Seaborn and Python
-[Publication] (https://github.com/Nattha-mook/Analyze-box-office-data-with-seaborn-python)
+![Moive_rating_band] (/jakob-owens-movie.jpg)
 
 Compared film revenue to budget, distribution of languages used across films and Do film descriptions impact revenue or not. The data set is from the TMDB Box Office.
 
