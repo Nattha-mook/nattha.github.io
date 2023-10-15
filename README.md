@@ -22,7 +22,7 @@
 
 ## 📊Projects 
 ### Analyze Box Office Data with Seaborn and Python
-banner: /jakob-owens-movie.jpg
+![banner](assets/jakob-owens-movie.jpg)
 
 Compared film revenue to budget, distribution of languages used across films and Do film descriptions impact revenue or not. The data set is from the TMDB Box Office.
 
