@@ -1,11 +1,11 @@
 # Nattha Sombat
-📍 Currently live in Toronto, Canada
+📍 Currently live in Bangkok, Thailand 🌴
 
-#### 💻Technical Skills: Python, SQL, SPSS, Power BI, MS Excel, Data-driven Marketing
+#### 💻Technical Skills: Python, SQL, R, SPSS, Power BI, Looker Studio, MS Excel, Data-driven Marketing
 
 ## 📚Education
-- Business Insights and Analytics ┃ Humber College in Toronto, Canada (_Anticipated Aug 2024_)
-- B.S. Aviation Technology Management ┃ Kasetsart University in Bangkok, Thailand (_May 2017_)
+- Business Insights and Analytics - Passed with Distinction ┃ Humber College in Toronto, Canada (_Aug 2024_)
+- B.S. Aviation Technology Management - Second Class Honors ┃ Kasetsart University in Bangkok, Thailand (_May 2017_)
 
 ## 💼Work Experience
 **Strategic Planning and Marketing Officer @ Dhurakij Pundit University in Bangkok, Thailand (_Apr 2022 - Sep 2022_)**
@@ -26,3 +26,8 @@
 
 Compared film revenue to budget, distribution of languages used across films and Do film descriptions impact revenue or not. The data set is from the TMDB Box Office.
 
+## Extracurricular Activities
+**Marketing Analyst @ Empowered Futures in Toronto, Canada (_Oct 2024 - Feb 2025_)**
+- Led marketing initiatives and delegated tasks, resulting in a 20% increase in brand awareness and consistent messaging across all channels.
+- Oversaw marketing and leveraging social media to boost event engagement by 25%, increasing community participation.
+- Collaborated with onboarding and training new volunteers, growing the team by 15% supporting timely campaign execution and enhancing overall marketing effectiveness. 
